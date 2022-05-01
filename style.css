@@ -1,0 +1,18 @@
+.header {
+    background-color:rgb(16, 16, 88);
+    color: white;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+  }
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border: 1px solid white;
+
+  }
+.col6fiveDayForecast {
+    border: 1px solid black
+
+}
+
